@@ -1,0 +1,42 @@
+stock
+CNQ
+Canadian Natural Resources
+3
+39.0
+156.69
+mutualfund
+ENB
+Enbridge
+1
+45.07
+52.76
+stock
+F
+Ford
+10
+14.3
+198.4
+stock
+RY
+Royal Bank of Canada
+1
+114.42
+132.74
+stock
+SU
+Suncor Energy
+4
+27.01
+129.28
+stock
+TD
+Toronto Dominion Bank
+2
+85.445
+192.32
+mutualfund
+VFV
+Vanguard S&P Index ETF
+3
+99.07
+310.26
